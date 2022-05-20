@@ -1,0 +1,7 @@
+<suite name="Suite1" parallel="classes" thread-count="2" >
+    <test name="RegressionSuite">
+        <classes>
+            <class name="APITests.APITests"/>
+        </classes>
+    </test>
+</suite>
