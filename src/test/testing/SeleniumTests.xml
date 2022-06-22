@@ -1,0 +1,7 @@
+<suite name="Suite1" parallel="classes" thread-count="2" >
+    <test name="TheInternetTest">
+        <classes>
+            <class name="Selenium.TheInternetTests" />
+        </classes>
+    </test>
+</suite>
